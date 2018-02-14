@@ -79,3 +79,5 @@ j = unique(xVec);j
 
 #8
 e=1; sum=1; for(i in seq(2,38,2)) {e=e*i/(i+1); sum = sum+e}; sum
+
+
